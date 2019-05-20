@@ -1,0 +1,12 @@
+thislist = ["apple", "banana", "cherry"]
+if "apple" in thislist:
+  print("Yes, 'apple' is in the fruits list")
+
+
+
+
+At end of BlackSmith Convo, add status of annoyed blacksmith to list
+
+player_status = ["annoybs", "soulofwarrior", "power"]
+if "annoybs" in thislist:
+  print("You're the one who pissed me off!")

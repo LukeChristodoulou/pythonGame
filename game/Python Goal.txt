@@ -1,0 +1,23 @@
+Make Text based Fantasy Adventure Game
+
+1. Intro Events : 
+	1a. Blacksmith
+	1b. Adventurers Guild
+		1ba. Quests (Undertaker)
+		1bb. Collecting Enemy remains
+	1c. Market Place
+2. Shop :
+	2a. Market Place - Potions
+	2b. Blacksmith Weapons
+3. Dungeons
+	3a. Randomised turn based combat
+	3b. Bosses
+	3c. Floors (Difficulty)
+4. EXP
+	4a. Gain EXP per enemy killed
+	4b. Each level gains stat boosts
+5. Fighting
+	5a. Options being : Fight(Weapon), Magic, Potion, Flee
+6. Final Boss Fight
+	6a. Level 5 Final Boss
+	6b. End Goal

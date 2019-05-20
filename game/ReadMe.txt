@@ -1,0 +1,1 @@
+These are attempts to make a text based adventure game in python. Or more accurately, game sequences. There's no actual game in here (yet), just sequences on meeting a blacksmith. The most complete file is bs.0.4.py but it still lacks what I want to do.
